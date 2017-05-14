@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HttpDemo2</string>
+    <string name="help">求助</string>
+    <string name="string_help_text">開起設置</string>
+    <string name="quit">離開</string>
+    <string name="settings">設置</string>
+
+</resources>
